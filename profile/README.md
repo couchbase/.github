@@ -1,4 +1,14 @@
-## Hi there 👋
+## Couchbase
+
+Couchbase is The Operational Data Platform for AI™.
+
+This organization contains the projects behind many of the components of Couchbase's core database server, Couchbase Mobile and the Couchbase AI Data Plane.
+
+Developers: https://www.couchbase.com/developers/
+
+Docs: https://docs.couchbase.com/
+
+Hosted: https://cloud.couchbase.com/
 
 <!--
 

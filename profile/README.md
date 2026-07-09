@@ -1,22 +1,27 @@
-## Couchbase
-
+# Couchbase
 Couchbase is The Operational Data Platform for AI™.
+Build with JSON documents, key-value access, SQL++ queries, full-text search, vector search, eventing, mobile sync, and analytics in one platform. Run it fully managed with Capella, self-managed, or embedded at the edge.
+## Build with Couchbase
 
-This organization contains the projects behind many of the components of Couchbase's core database server, Couchbase Mobile and the Couchbase AI Data Plane.
+- Low-latency apps at scale
+- AI agents and RAG apps with operational data, vectors, and persistent memory
+- Offline-first mobile and edge apps
+- Full-text and vector search
+- Real-time analytics
 
-Developers: https://www.couchbase.com/developers/
+## AI Data Plane
 
-Docs: https://docs.couchbase.com/
+Couchbase AI Data Plane is a governed data layer for production AI agents, including Agent Memory, MCP Server, and Agent Catalog.
 
-Hosted: https://cloud.couchbase.com/
+Right now, teams are building that layer themselves out of five separate services. Couchbase AI Data Plane is built to be that layer: a single, governed data foundation that lets you stop stitching scattered agent infrastructure together and move from pilot to production faster.
 
-<!--
+https://www.couchbase.com/products/ai-services/
 
-**Here are some ideas to get you started:**
+## Get started
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Capella: https://cloud.couchbase.com/sign-up
+- Developers: https://www.couchbase.com/developers/
+- Docs: https://docs.couchbase.com/home/index.html
+- SDKs: https://docs.couchbase.com/home/sdk.html
+- Server: https://www.couchbase.com/downloads/?family=couchbase-server
+- Forums: https://www.couchbase.com/forums/
